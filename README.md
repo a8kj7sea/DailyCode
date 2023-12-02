@@ -134,7 +134,7 @@ Look at the picture, it illustrates the program's operation and the output
 
 
 <br><br><br><hr>
-# Thrid Code (OrGateHelper)
+# Third Code (OrGateHelper)
 
 [OrGateHelper](https://github.com/a8kj7sea/DailyCode/blob/main/OrGateHelper.cpp)
 
