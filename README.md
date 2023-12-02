@@ -43,9 +43,13 @@ My name is a8kj
 
 ```
 
-<hr>
+
 
 [Execute Code online](https://onlinegdb.com/onvVqu89NR)
+
+
+<br><br><br><hr><br><br><br>
+
 
 # Second Code {AndGateHelper}
 
